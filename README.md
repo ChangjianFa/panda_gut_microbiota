@@ -149,7 +149,7 @@ The model R<sup>2</sup> (0.802) exceeds the baseline (0.791), demonstrating that
 | Method | Bacterial interaction | Environment |
 |--------|----------------------|-------------|
 | Variance ratio | 28.9% | 6.6% |
-| R<sup>2</sup> percentage | 31.9% | 68.1% |
+| R<sup>2</sup> | 0.995 | 0.690 |
 | Regression coefficient | 0.923 | 0.093 |
 
 ### JTK_CYCLE rhythm
