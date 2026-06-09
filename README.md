@@ -130,7 +130,6 @@ Year 2 has only 4 time points. The validation procedure:
 
 | Metric | Value |
 |--------|-------|
-| Parameters | n_order = 3, spar = 0.78 |
 | Year 1 model residual | 0.099 |
 | Year 2 overall RMSE | 0.059 |
 | Year 2 overall R<sup>2</sup> | **0.802** |
