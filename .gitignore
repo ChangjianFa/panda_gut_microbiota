@@ -1,0 +1,19 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+Rplots.pdf
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# RStudio
+.Rproj.user/

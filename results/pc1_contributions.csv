@@ -1,0 +1,14 @@
+"Method","Component","Value"
+"Variance","Interaction",0.289196529560191
+"Variance","Environment",0.0657279782471464
+"R2","Interaction",0.995188905446084
+"R2","Environment",0.689743300786235
+"R2","Interaction",31.860119665027
+"R2","Temperature",22.9874560457567
+"R2","Crude_Fat",0.704873502761882
+"R2","Crude_Protein",8.92995357438863
+"R2","Crude_Fiber",13.8806493703303
+"R2","Carbohydrate",21.6369478417355
+"Regression","Interaction_coef",0.922998665184136
+"Regression","Environment_coef",0.0934050667589842
+"Regression","R2",0.998349313117174
